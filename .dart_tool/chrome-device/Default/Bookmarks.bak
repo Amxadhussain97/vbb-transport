@@ -1,0 +1,89 @@
+{
+   "checksum": "60fe7f2b1b6468ae79430bbfe8214f4a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13239037281559032",
+            "date_last_used": "0",
+            "guid": "7af249df-33c3-455f-84fd-1ee8620608c0",
+            "id": "6",
+            "name": "Amazon.co.uk – Online Shopping",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "http://www.amazon.co.uk/gp/bit/amazonbookmark.html?tag=hp2-brobookmark-uk-21&partner=HP"
+         }, {
+            "date_added": "13239037281559032",
+            "date_last_used": "0",
+            "guid": "af8c920d-309c-495e-8c48-d25a87ffb6ae",
+            "id": "7",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=7684&destination=booking&refclickid=webslice1819"
+         } ],
+         "date_added": "13337517979053483",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favourites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13239037281559032",
+               "date_last_used": "0",
+               "guid": "8aa82295-e066-4ef2-8f2c-f26eedd26256",
+               "id": "9",
+               "name": "Amazon.co.uk – Online Shopping",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.amazon.co.uk/gp/bit/amazonbookmark.html?tag=hp2-brobookmark-uk-21&partner=HP"
+            }, {
+               "date_added": "13239037281559032",
+               "date_last_used": "0",
+               "guid": "32c405b3-c94d-4f6f-81e8-555d623bf46b",
+               "id": "11",
+               "name": "Booking.com",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=7684&destination=booking&refclickid=iefav1819"
+            } ],
+            "date_added": "13337517981963490",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "8fbd1972-ee67-4172-8250-f2051d7ff218",
+            "id": "8",
+            "name": "HP",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13337517979053484",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favourites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13337517979053485",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favourites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
